@@ -1,0 +1,6 @@
+.container__div {
+    display: flex;
+    align-items: center;
+    box-shadow: 0px 1px rgb(0,0,0,0.12), 0px 1px rgb(0,0,0,0.12);
+    padding: 10px;
+}
